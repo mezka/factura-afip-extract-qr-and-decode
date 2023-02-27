@@ -1,0 +1,4 @@
+Pillow==9.4.0
+PyJWT==2.6.0
+PyMuPDF==1.21.1
+pyzbar==0.1.9
